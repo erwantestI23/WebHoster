@@ -4,12 +4,6 @@ Welcome! Here you can download my first project: **Webhoster APK**.
 
 ---
 
-## 📥 Download
-
-[**➡️ Download Webhoster APK**](http://176.174.44.98/android/webhoster/webhoster.apk)
-
----
-
 ## 📌 Important Instructions
 
 ### **Permissions**
